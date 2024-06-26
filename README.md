@@ -11,3 +11,14 @@ Run the Bot_IoT_combine_data_scenarios.ipynb notebook to combine several scenari
 1.Open Bot_IoT_combine_data_scenarios.ipynb in Google Colab or Jupyter Notebook.
 2.Execute all cells to combine the datasets.
 
+Step 3: Data Preprocessing
+Apply the BoT_IoT_preprocessing.ipynb notebook for data preprocessing steps including handling missing values, null values, mixed data types, and categorical data columns.
+
+Open BoT_IoT_preprocessing.ipynb in Google Colab or Jupyter Notebook.
+Execute all cells to preprocess the dataset.
+Step 4: Neural Network-Based Detection
+Execute the Enhanced_Intrusion_Detection_for_IoT_Neural_Network_based_Imbalanced_Data_Handling_and_Feature_Reduction.ipynb notebook. This notebook combines cost-sensitive learning trained with a multi-output neural network to predict both the category and subcategory classes of the data.
+
+Open Enhanced_Intrusion_Detection_for_IoT_Neural_Network_based_Imbalanced_Data_Handling_and_Feature_Reduction.ipynb in Google Colab or Jupyter Notebook.
+Execute all cells to train the neural network and make predictions.
+
