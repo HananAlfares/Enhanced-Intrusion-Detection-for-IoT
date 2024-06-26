@@ -5,4 +5,5 @@ This project aims to solve the imbalance of classes within the dataset while pro
 
 # Steps to execute the code: 
 1- load the dataset
-2- apply Bot_IoT combine data secnarious.ipynb code to combine several scenarios of Bot-IoT datase.
+2- apply Bot_IoT combine data secnarious.ipynb code to combine several scenarios of Bot-IoT dataset. 
+3- 
