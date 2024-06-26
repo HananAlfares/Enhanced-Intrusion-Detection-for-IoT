@@ -6,6 +6,8 @@ This project aims to solve the imbalance of classes within the dataset while pro
 Step 1: Load the Dataset
 Ensure you have the Bot-IoT dataset downloaded and available in your working directory. If not, you can download it from the Bot-IoT dataset repository.
 
-#Step 2: Combine Data Scenarios
+Step 2: Combine Data Scenarios
 Run the Bot_IoT_combine_data_scenarios.ipynb notebook to combine several scenarios of the Bot-IoT dataset. This notebook merges multiple datasets into a single dataset for further processing.
+1.Open Bot_IoT_combine_data_scenarios.ipynb in Google Colab or Jupyter Notebook.
+2.Execute all cells to combine the datasets.
 
