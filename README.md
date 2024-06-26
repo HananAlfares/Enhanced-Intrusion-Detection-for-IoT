@@ -2,9 +2,10 @@
 
 This project aims to solve the imbalance of classes within the dataset while providing a multi-output prediction model. It includes data processing, analysis, balancing techniques, and a multi-output neural network for data training. 
 
+# Steps to Execute the Code
+Step 1: Load the Dataset
+Ensure you have the Bot-IoT dataset downloaded and available in your working directory. If not, you can download it from the Bot-IoT dataset repository.
 
-# Steps to execute the code: 
-1- load the dataset
-2- apply Bot_IoT combine data secnarious.ipynb code to combine several scenarios of Bot-IoT dataset. 
-3- apply the BoT_IoT preprocessing.ipynb for data preprocessing steps including handling missing values, null values, mixed data type, and categorical data columns.
-4- execute the (Enhanced Intrusion Detection for IoT: Neural Network-based Imbalanced Data Handling and Feature Reduction.ipynb.ipynb) for combining the cost-sensitive learning trained with multi-output neural network to predict both category and subcategory class of the data
+#Step 2: Combine Data Scenarios
+Run the Bot_IoT_combine_data_scenarios.ipynb notebook to combine several scenarios of the Bot-IoT dataset. This notebook merges multiple datasets into a single dataset for further processing.
+
